@@ -1,0 +1,1 @@
+convert -blur 0x28 pedestrian1-unblur.jpg pedestrian1-blur.jpg
