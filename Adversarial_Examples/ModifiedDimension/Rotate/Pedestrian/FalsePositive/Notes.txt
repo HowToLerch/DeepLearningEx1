@@ -1,0 +1,1 @@
+5. The most of the car is recognised as person when rotated
