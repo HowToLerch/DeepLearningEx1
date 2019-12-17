@@ -1,0 +1,2 @@
+convert -blur 0x15 car1-unblur.jpg car1-blur.jpg
+convert -blur 0x20 car2-unblur.jpg car2-blur.jpg
