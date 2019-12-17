@@ -1,0 +1,2 @@
+Auto wird nicht als solches erkannt. Hat wahrscheinlich damit 
+zu tun, dass es dieselbe Farbe wie der Hintergrund hat.

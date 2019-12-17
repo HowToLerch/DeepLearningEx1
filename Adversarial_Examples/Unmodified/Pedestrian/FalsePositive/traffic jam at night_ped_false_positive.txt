@@ -1,0 +1,3 @@
+Es werden viele Fussgänger erkannt obwohl es sich um Autos handelt.
+Wahrscheinlich durch die hellen Spiegelungen an der Seite der
+Autos ausgelöst.
