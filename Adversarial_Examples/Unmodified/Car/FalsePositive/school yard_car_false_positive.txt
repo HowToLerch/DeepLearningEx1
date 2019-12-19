@@ -1,0 +1,2 @@
+Ein Schatten/dunkles Objekt mit der Form eines Autos im
+Hintergrund, wird als solches erkannt.
