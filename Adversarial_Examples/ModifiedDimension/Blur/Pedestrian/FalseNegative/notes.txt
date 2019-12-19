@@ -1,1 +1,2 @@
 convert -blur 0x28 pedestrian1-unblur.jpg pedestrian1-blur.jpg
+convert -blur 0x15 pedestrian2-unblur.jpeg pedestrian2-blur.jpeg
