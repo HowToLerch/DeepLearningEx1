@@ -1,2 +1,3 @@
 bike 1:
 convert -blur 30x30 bike1-unblur.jpg bike1-blur.jpg
+The image is too blur to be recognized.
