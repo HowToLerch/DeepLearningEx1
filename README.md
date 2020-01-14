@@ -1,4 +1,4 @@
-# DeepLearningEx1
+# DeepLearningEx1 (befindet sich im folder "Adversarial_Examples")
 
 Unmodified = Henz
 
@@ -10,7 +10,7 @@ Color = Pantazis
 
 Manipulate = Heck
 
-# DeepLearningEx2
+# DeepLearningEx2 (befindet sich im folder "DeepLearningEx2")
 True positive 'positive' predictions = 11221
 
 False positive 'positive' predictions = 992
