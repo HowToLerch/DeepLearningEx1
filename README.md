@@ -6,7 +6,7 @@ Rotate = Lerch
 
 Blur = Burdet
 
-Color = Pantazis
+Color = P.
 
 Manipulate = Heck
 
