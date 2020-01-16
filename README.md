@@ -6,8 +6,6 @@ Rotate = Lerch
 
 Blur = Burdet
 
-Color = P.
-
 Manipulate = Heck
 
 ## DeepLearningEx2 (befindet sich im folder "DeepLearningEx2")
